@@ -6,7 +6,7 @@ Matlab
 
 ## Quick Start
 1. To run the GRAB approach, run `GRAB(A,SubsequenceLength,topN)`
-2. To run the adapted approach, run `FV(ts, SubsequenceLength, zone)`
+2. To run the adapted FLUSS approach, run `FV(ts, SubsequenceLength, zone)`
 3. To evaluate the clustering accuracy, run `computeClu(GT,community)`
 4. To evaluate the segmentation error, run `computeSeg(GT,splitLoc)`
 
